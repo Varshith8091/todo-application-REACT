@@ -1,5 +1,8 @@
-This is my firts project in REACT # todo-application-REACT
-The application is about the TODO LIST in our daily lives,wher we can mark,edit and delete the tasks.
-The application is developed using components named app.jsx,,todoitem.jsx,todolist.jsx,header.jsx
-In main.jsx file we called app.jsx and from app.jsx we called header.jsx and todolist.jsx
-The component todolist.jsx calls the todoitem.jsx.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
