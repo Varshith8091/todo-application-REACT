@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is my first REACT application TODOLIST
+The application is about tasks in our daily lives.
+To run this application,follow the steps:
+  run the command in terminal "cd vite-project"(as the project name is vite-project")
+  run the command "npm run dev" to run the application,then click on the link to use.
+In the project i used 4 components namely header,todolist,todoitem and app.jsx.
+With the help of states and props , i managed to call other components without complex code and with different context.
